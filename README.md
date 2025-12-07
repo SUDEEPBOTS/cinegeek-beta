@@ -51,7 +51,7 @@
 ---
 
 ## 🛠️ Technology Stack
-
+https://cinegeek-beta-ebon.vercel.app/
 | Component | Technology |
 |----------|------------|
 | **Core Framework** | Next.js (React) |
